@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aastha — a 3rd year CSE undergrad (Cybersecurity & Digital Forensics) from VIT Bhopal.<br><br>🛠️ I’m currently working on  <br>- Building full‑stack web apps with MERN & Java/Spring Boot  <br>- Security projects like vulnerability scanners and secure backend APIs  <br><br>🤝 I’m looking to collaborate on  <br>- Web apps that need auth, payments or security hardening  <br>- Open‑source security / devtools  <br>- Cloud‑native and CyberSecurity projects<br><br>
+👋 Hi, I’m Aastha — a final year CSE undergrad (Cybersecurity & Digital Forensics) from VIT Bhopal.<br><br>🛠️ I’m currently working on  <br>- Building full‑stack web apps with MERN & Java/Spring Boot  <br>- Security projects like vulnerability scanners and secure backend APIs  <br><br>🤝 I’m looking to collaborate on  <br>- Web apps that need auth, payments or security hardening  <br>- Open‑source security / devtools  <br>- Cloud‑native and CyberSecurity projects<br><br>
 
 
 ## 🌐 Socials:
